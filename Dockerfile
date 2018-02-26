@@ -1,6 +1,6 @@
 FROM java:openjdk-8-jre
 
-MAINTAINER Burak Ince <burak.ince@linux.org.tr>
+MAINTAINER Dale Peakall <dpeakall@thoughtworks.com>
 
 ENV SONAR_SCANNER_MSBUILD_VERSION=4.0.2.892 \
     SONAR_SCANNER_VERSION=3.0.3.778 \
